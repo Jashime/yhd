@@ -1,0 +1,17 @@
+i{display: inline-block;width: 12px;height: 12px;background: url('img/indexhead_sprite.png') no-repeat;background-position: -286px -260px;vertical-align: middle;}
+.phone{width:15px;height:20px;background-position: -286px -230px;}
+/*.icons:hover{background-position: -286px -290px}*/
+.banner-left-nav>ul>li i:last-child{background-position:7px -1161px;position: absolute;right: 10px;top: 10px;}
+.banner-left-nav>ul>li i:first-child{background: url('img/nav.png');width: 20px;height: 20px;margin-right: 5px;}
+.banner-left-nav>ul>li:nth-child(2) i:first-child{background-position: 0px -46px;}
+.banner-left-nav>ul>li:nth-child(3) i:first-child{background-position: 0px -90px;}
+.banner-left-nav>ul>li:nth-child(4) i:first-child{background-position: 0px -135px;}
+.banner-left-nav>ul>li:nth-child(5) i:first-child{background-position: 0px -171px;}
+.banner-left-nav>ul>li:nth-child(6) i:first-child{background-position: 0px -210px;}
+.banner-left-nav>ul>li:nth-child(7) i:first-child{background-position: 0px -250px;}
+.banner-left-nav>ul>li:nth-child(8) i:first-child{background-position: 0px -291px;}
+.banner-left-nav>ul>li:nth-child(9) i:first-child{background-position: 0px -331px;}
+.banner-left-nav>ul>li:nth-child(10) i:first-child{background-position: 0px -371px;}
+.banner-left-nav>ul>li:nth-child(11) i:first-child{background-position: 0px -405px;}
+.banner-left-nav>ul>li:nth-child(12) i:first-child{background-position: 0px -446px;}
+.banner-left-nav-tou i{background-position:-290px -1218px;position: absolute;right: 10px;top: 15px;}
